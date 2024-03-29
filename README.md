@@ -115,11 +115,11 @@ endmodule
 
 ## Output Timing Waveform
 
- **full adder**
+ ## full adder
 
 ![4add wave](https://github.com/Jegatheeswarir/FULL_ADDER_SUBTRACTOR/assets/144871077/d812a522-e5c7-4e3e-ab81-fc1cb8b44853)
 
- **full subtractor**
+ ## full subtractor
 
 ![4 sub wave](https://github.com/Jegatheeswarir/FULL_ADDER_SUBTRACTOR/assets/144871077/a0a292a5-55fe-4fa3-ae65-0f934ed22d28)
 
